@@ -1,0 +1,2 @@
+LINK AL VIDEO POR SI ACASO:
+https://liveutad-my.sharepoint.com/:v:/g/personal/ivan_lorenzo_live_u-tad_com/IQAKLn5kwm7dQbQylrRT04RCAdnapnOXH8MHifVXmCgnBO4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&email=fernando.madrid%40u-tad.com&e=widSdG

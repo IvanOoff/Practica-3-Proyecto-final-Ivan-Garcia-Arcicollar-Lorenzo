@@ -1,0 +1,59 @@
+# Unreal Engine temporary and build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE folders
+.vs/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.VC.db
+*.VC.VC.opendb
+
+# JetBrains Rider
+.idea/
+
+# Logs
+*.log
+
+# Do not ignore project files (we want the .uproject and .sln tracked)
+# Keep Source and Config tracked
+
+# Ignore built editor artifacts
+*.pdb
+*.exe
+*.lib
+*.dll
+
+# Ignore compiled shader caches
+Saved/Cooked/
+
+# OneDrive cache files
+~$*
+
+# Ignore large artifacts directories if present
+Content/VT/
+
+Binaries/  
+DerivedDataCache/  
+DerivedData/  
+Intermediate/  
+Saved/  
+Build/  
+.vs/  
+*.sln  
+*.suo  
+*.user  
+.vscode/  
+.idea/  
